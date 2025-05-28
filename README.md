@@ -22,6 +22,6 @@ The main challenge was to design and program an autonomous robot to follow a lin
 ## Demo
 
 Watch the robot in action:  
-[![Autonomous Line Tracking Robot Demo](<img width="331" alt="image" src="https://github.com/user-attachments/assets/eafd8335-acfb-489b-8687-7944444c40a1" />
+[![Autonomous Line Tracking Robot Demo](https://img.youtube.com/vi/PQIqecPQN0Q/0.jpg
 )](https://youtube.com/shorts/PQIqecPQN0Q?si=KLHuc2oOLxqIu__m)
 
