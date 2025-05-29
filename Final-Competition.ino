@@ -108,7 +108,7 @@ void loop() {
 
   // Case A: all black OR all white → drive straight
   if ((sr&&sm&&sl&&smr&&sml) || (!sr&&!sm&&!sl&&!smr&&!sml)) {
-    goForwards(190);
+    goForwards(255);
     if (currTime > 2) goForwards(255);
     conTurn('f');
     delay(1);
@@ -125,7 +125,7 @@ void loop() {
     slightTurn(conTurn('l'), 255);
   }
   else {
-    goForwards(190);
+    goForwards(255);
     if (currTime > 2) goForwards(255);
     conTurn('f');
   }
