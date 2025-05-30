@@ -1,4 +1,4 @@
-# Summer Hardware & Robotics Workshop – Autonomous Line Trackig Robot Competition
+# Summer Hardware & Robotics Workshop – Autonomous Line Tracking Robot Competition
 
 ## Overview
 
@@ -25,3 +25,6 @@ Watch the robot in action:
 [![Autonomous Line Tracking Robot Demo](https://img.youtube.com/vi/PQIqecPQN0Q/0.jpg
 )](https://youtube.com/shorts/PQIqecPQN0Q?si=KLHuc2oOLxqIu__m)
 
+Watch the robot in the final competition:
+[![Final Competition: Autonomous Line Tracking Robot Demo](https://img.youtube.com/vi/fu4O-y8NJ8k/0.jpg
+)](https://youtube.com/shorts/fu4O-y8NJ8k?si=Fk0UlllxMeqIQ0qu)
